@@ -41,7 +41,7 @@ from `GitHub <http://github.com/lebedov/markovapplet>`_.
 
 Installation
 ------------
-This applet makes use of JFreeChart [2], a freely available chart
+This applet makes use of JFreeChart [2]_, a freely available chart
 construction class library for Java. The specific
 version of the JFreeChart packages used in developing the applet are
 included with the applet code to facilitate compilation and running.
