@@ -23,7 +23,7 @@ This software is licensed under the
 See the included LICENSE file for more information.
 
 JFreeChart is licensed under the `GNU Lesser General Public License (LGPL)
-<http://www.gnu.org/licenses/lgpl.html`_. See the included LICENSE.jfreechart
+<http://www.gnu.org/licenses/lgpl.html>`_. See the included LICENSE.jfreechart
 file for more information.
 
 Contact Information
